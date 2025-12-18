@@ -118,3 +118,6 @@ This project helps practice:
 ## 📌 License
 
 This project is open for learning and personal use.
+
+## Project Idea Resources
+URL:https://roadmap.sh/projects/log-archive-tool
